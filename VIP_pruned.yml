@@ -6,6 +6,7 @@ dependencies:
   - pip
   - nodejs=13.13.0
   - r-base
+  - r-essentials
   - rpy2
   - pip:
     - -r file:conda_pip_requirements.txt
